@@ -1,0 +1,17 @@
+
+# n11 campaigns page opens
+* Go to "https://www.n11.com/kampanyalar"
+* Wait a "3" second
+
+# URLs with promotion details are collected by clicking on the campaign categories from the menu
+* Click the links
+* Wait a "3" second
+* Take a screenshot
+
+# The url containing the campaigns and promotions is written in excel
+* Export list to Excel
+* Wait a "3" second
+
+
+
+
